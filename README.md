@@ -4,4 +4,4 @@ The purpose of this project is meant to test students debugging skills with Flas
 
 There are roughly 15-20 bugs produced inside of this project. All of the bugs have been encountered before. There are some bugs that are similar but have now taken a different "type" of bug.
 
-Once a working app is produced, commit the project to a personal seperate github repository.
+Once a working app is produced, commit the project to a personal seperate github repository.# flask_debug_project
